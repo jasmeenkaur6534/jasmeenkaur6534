@@ -18,19 +18,22 @@ Hi 👋, I'm Jasmeen Kaur
 ---
 
 🛠️ Tech Stack
-
 Languages
-
-"Java" "C" "JavaScript" "SQL"
-
+☕ Java
+💻 C
+🟨 JavaScript
+🗄️ SQL
 Web Development
-
-"HTML" "CSS" "JavaScript"
-
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
 Database
-
-"MySQL"
-
+🐬 MySQL
 Tools
-
-"Git" "GitHub" "VS Code"
+🔧 Git
+🐙 GitHub
+💻 VS Code
+Currently Learning
+📚 Data Structures & Algorithms
+☕ Advanced Java / OOP
+⚛️ React
